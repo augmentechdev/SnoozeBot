@@ -1,1 +1,1 @@
-# SnoozeBot
+# Snooze Bot
