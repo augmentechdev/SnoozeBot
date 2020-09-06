@@ -20,4 +20,4 @@ Have you received a Teams message and couldn't address it immediately? Did you f
 
 # Augmentech Ltd
 
-Augmentech Ltd is a provider of consultancy services and products for Microsoft 365, Microsoft Teams and Azure platforms. Get in touch with us at contact@augmentech.co.uk
+Augmentech Ltd is a provider of consultancy services and products for Microsoft 365, Microsoft Teams and Azure platforms. Get in touch with us at contact@augmentech.co.uk to know more.
