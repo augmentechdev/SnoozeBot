@@ -1,6 +1,6 @@
 <h2>Privacy Policy</h2>
 <p>Last updated: September 06, 2020</p>
-<p>Your privacy is important to us. This privacy policy applies to applications/services/platform provided by Augmentech Ltd.It is Augmentech Ltd's policy to respect your privacy regarding any information we may collect from you through our app, Snooze.</p>
+<p>Your privacy is important to us. This privacy policy applies to applications/services/platform provided by Augmentech Ltd.It is Augmentech Ltd's policy to respect your privacy regarding any information we may collect from you through our app, Snooze Bot.</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</p>
 <h1>Interpretation and Definitions</h1>
